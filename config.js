@@ -47,13 +47,13 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Jarotr_' //Link Instagrammu
-global.sgh = 'https://github.com/Alpiii22' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/GPMdyM0uDMP789G3IGMHda'
+global.sig = 'https://instagram.com/neyzardwinansyh' //Link Instagrammu
+global.sgh = 'https://github.com/Neyzz21' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/JygulzqR0LEA5Y7wlCS1jp'
 global.sdc = '_'
-global.stg = 'https://instagram.com/Jarotr_'
-global.syt = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //Isi Pake Link Discordmu Kalo Gada Biarin aja
-global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
+global.stg = 'https://instagram.com/neyzardwinansyh'
+global.syt = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
+global.snh = 'ZAR-BOTZ🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
 global.pdana = '087746053136' //Nomor Danamu
