@@ -353,7 +353,8 @@ global.dmenub2 = '┊' //body for info cmd on Default menu
 global.dmenuf = '┗––––––––––✦' //footer
 
 // COMMAND MENU
-global.dashmenu = '┅━━━═┅═❏ *ღ 𝘿𝘼𝙎𝙃𝘽𝙊𝘼𝙍𝘿 ღ* ❏═┅═━━━┅'
+global.dashmenu = '┅━━━═┅═❏ *ღ 𝘿𝘼𝙎𝙃𝘽𝙊𝘼𝙍𝘿 ღ* ❏═┅═━━━┅
+https://chat.whatsapp.com/JygulzqR0LEA5Y7wlCS1jp'
 global.cmenut = '╭─❑ 『'                       //top
 global.cmenuh = '』❑─ '                        //header
 global.cmenub = '┃❑ '                            //body
