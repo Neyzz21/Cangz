@@ -12,6 +12,7 @@ import fetch from 'node-fetch'
 const defaultMenu = {
   before: `
 *┄┄┄┅┅❑ DASHBOARD ❑┅┅┄┄┄*
+https://chat.whatsapp.com/JygulzqR0LEA5Y7wlCS1jp
 ┏─────────────────⬣
 ┆ 𝑯𝒂𝒊, ${ucapan()}  %name!👋
 ┗┬──────────────┈ ⳹
